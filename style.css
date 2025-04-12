@@ -1,10 +1,10 @@
 /* General Reset + Base */
 body {
-  font-family: 'Georgia', serif;
   background-color: #fdfaf7;
   color: #2e2e2e;
+  font-family: 'Georgia', serif;
+  padding: 2rem;
   margin: 0;
-  padding: 0 1rem;
 }
 
 /* Header Section */
