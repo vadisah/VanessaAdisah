@@ -63,3 +63,25 @@ a:hover {
 /* Footer */
 footer {
   text-align: center
+
+
+  .fade-in {
+  opacity: 0;
+  animation: fadeIn 2s ease forwards;
+  animation-delay: 1.5s;
+  font-size: 0.9rem;
+  color: #888;
+  margin-top: 0.5rem;
+}
+
+.fade-in a {
+  color: #9b5de5;
+  text-decoration: none;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
