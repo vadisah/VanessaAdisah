@@ -75,6 +75,19 @@ a:hover {
   text-decoration: none;
 }
 
+
+#events {
+  background-color: #f7f4f0;
+  padding: 2rem;
+  margin: 2rem auto;
+  border-left: 4px solid #9b5de5;
+  max-width: 800px;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #444;
+}
+
+
 @keyframes fadeIn {
   to {
     opacity: 1;
